@@ -1,0 +1,76 @@
+# BPE merges for VW OS tokenizer (minimal starter set)
+# Full merges will be generated after training on the 4.5M dataset
+t e
+te n
+a r
+ar e
+e l
+el  
+l a
+la  
+d e
+de  
+e n
+en  
+u n
+un  
+q u
+qu e
+que  
+c o
+co n
+con  
+p o
+po r
+por  
+p a
+pa r
+par a
+para  
+s e
+se  
+m e
+me  
+b a
+ba t
+bat e
+bate r
+bater í
+baterí a
+batería
+v e
+ve l
+vel o
+velo c
+veloc i
+veloci d
+velocid a
+velocida d
+velocidad
+c l
+cl i
+cli m
+clim a
+clima
+n a
+na v
+nav e
+nave g
+naveg a
+navega c
+navegac i
+navegaci ó
+navegació n
+navegación
+m ú
+mú s
+mús i
+músi c
+músic a
+música
+q u
+qu e
+que r
+quer y
+query _
+query_
